@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Chave
+chave.py
+# Ambiente virtual
+.venv/
+
+# arquivo exe
+build/
